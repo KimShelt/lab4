@@ -1,5 +1,5 @@
 /**  @file
-* *  @author Saprykin D.E.
+* *  @author Kololeikin
 * *  @version 1.0.0
 * *  @date 20.11.2022
 * *  @brief Заголовочный файл для модуля modAlphaCipher
